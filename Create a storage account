@@ -1,0 +1,4 @@
+$storageAccount = New-AzStorageAccount -ResourceGroupName $resourceGroup
+-Name "mystorageaccount" 
+-SkuName Standard_LRS 
+-Location $location 
