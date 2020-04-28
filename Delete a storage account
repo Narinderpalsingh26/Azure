@@ -1,1 +1,0 @@
-Remove-AzStorageAccount -Name <storage-account> -ResourceGroupName <resource-group>
